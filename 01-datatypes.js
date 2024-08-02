@@ -10,19 +10,15 @@ var ageTypeOf = typeof age;
 
 console.log("Datatype of age is: ", ageTypeOf);
 
- 
-
 console.log("============= String Datatype ===============");
 
-var city = 'Pune';
+var city = "Pune";
 
 console.log("City is:", city);
 
 var cityTypeOf = typeof city;
 
 console.log("Type of city is:", cityTypeOf);
-
- 
 
 var marks = "93";
 
@@ -42,8 +38,6 @@ var isMarriedTypeOf = typeof isMarried;
 
 console.log("isMarried type of is: ", isMarriedTypeOf);
 
- 
-
 var isFailed = false;
 
 console.log("isFailed : ", isFailed);
@@ -61,8 +55,6 @@ console.log("Country value is: ", country);
 var countryTypeOf = typeof country;
 
 console.log("Type of country is: ", countryTypeOf);
-
- 
 
 console.log("============= Special Datatype: null ===============");
 

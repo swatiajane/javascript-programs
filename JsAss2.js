@@ -3,8 +3,8 @@ var bank;
 console.log("Bank name is: ", bank);
 var bankTypeOf = typeof bank;
 console.log("DataType of Bank is: ", bankTypeOf);
-var bank="SBI Bank"
-console.log("Bank name is:",bank)
+var bank = "SBI Bank";
+console.log("Bank name is:", bank);
 var bankTypeOf = typeof bank;
 console.log("Type of Datatype is:", bankTypeOf);
 console.log("============= 2 ===============");
@@ -18,12 +18,12 @@ console.log("my working status is: ", isWorking);
 var isWorkingTypeOf = typeof isWorking;
 console.log("Working type of is: ", isWorkingTypeOf);
 console.log("============= 4 ===============");
-var totalcount="Hundred and Seven";
+var totalcount = "Hundred and Seven";
 console.log("totalcount is: ", totalcount);
 var totalcountTypeOf = typeof totalcount;
 console.log("totalcount type of is: ", totalcountTypeOf);
 console.log("============= 5 ===============");
-var totalcount=107;
+var totalcount = 107;
 console.log("totalcount is: ", totalcount);
 var totalcountTypeOf = typeof totalcount;
 console.log("totalcount type of is: ", totalcountTypeOf);

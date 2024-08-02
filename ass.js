@@ -1,5 +1,3 @@
-
-
 //Variable Declaration and Initialization
 cityName = "my city name is: pune";
 console.log(cityName);

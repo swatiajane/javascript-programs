@@ -10,5 +10,5 @@ console.log(firstName);
 var lastName = "Gates";
 console.log(lastName);
 //  Variable Updates
-firstName = "Jennifer"
+firstName = "Jennifer";
 console.log(firstName);
