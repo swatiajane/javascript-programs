@@ -16,8 +16,7 @@ multiply(100, 300);
 multiply(123.67, 90.77);
 multiply(70);
 
-
-console.log("======== function with no arguments and return value =============");
+console.log("========== function with no arguments and return value =============");
 function demo(){
     console.log("Inside demo function...");
     return "Good Morning";
